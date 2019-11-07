@@ -1,0 +1,73 @@
+2016-12-07更新: 添加HGST He12 12TB PMR 512e & 4Kn完整参数, 添加HGST 14TB SMR部分参数
+
+2017-02-08更新: 添加Toshiba MN新系列NAS 4/6/8TB, 型号包括MN04ACA400, MN05ACA600, MN05ACA800
+
+2017-02-13更新: 添加HGST Deskstar NAS 8TB, 修正该系列STD Model笔误, 感谢https://www.chiphell.com/thread-1703382-1-1.html
+
+2017-03-14更新: 添加Seagate Enterprise Capacity v7 12TB标准型号512e ST12000NM0007和4Kn ST12000NM0047
+
+2017-04-06更新1: 添加WDC Purple 10TB型号WD100PURZ, 首款5400RPM 10TB
+
+2017-04-06更新2: 添加Toshiba Enterprise Capacity 8TB型号512e MG05ACA800E和4Kn MG05ACA800A
+
+2017-07-18更新: 大面积添加, 修正, 删除Seagate和HGST型号
+
+2017-07-20更新: 大面积添加, 修正, 删除WDC和Toshiba型号
+
+2017-09-15更新: 添加WDC Gold 12TB型号 WD121KRYZ, 更新Seagate和HGST 12TB详细能耗参数
+
+2017-10-12更新: Seagate和HGST型号及参数大面积添加, 更新和删除, 主要包括DM/VN/NE的12TB型号以及首款14TB SMR HGST Hs14
+
+
+2017-12-07更新: Seagate企业级产品线命名及其它型号添加与更新, Toshiba部分型号添加(主要包括3个系列的业界首款7碟空气盘10TB)
+
+Seagate方面更新简述
+
+1. 新增SkyHawk AI系列, 与普通SkyHawk形成类似IronWolf Pro vs IronWolf的阶梯, 目前只有8TB和10TB型号
+
+2. 企业级产品线跟随一年半前消费级的脚步改头换面
+
+Archive -> Exos 5E8, 新Archive SMR型号为单碟2TB SMR/256MB Cache的ST8000AS0003, 取代之前的ST8000AS0002
+
+Enterprise Capacity v5 -> Exos 7E8, 空气盘, 最大容量8TB
+
+Enterprise Capacity v6 -> Exos X10, 充氦8TB和10TB, 包含Hyperscale和Standard DC型号(v6.1)
+
+Enterprise Capacity v7 -> Exos X12, 只有充氦12TB且仅含Hyperscale型号
+
+Toshiba方面更新简述
+
+推出了业界首款7碟空气盘10TB, 包括MG06ACA10TE/A(企业级), MN06ACA10T(NAS)和MD06ACA10TV(监控)
+
+另外监控新增6TB和8TB型号, 同时企业级6TB和8TB更新为新系列MG06ACA, 取代MG05ACA
+
+
+2017-12-11更新: 新增MG07系列, 包括14TB MG07ACA14TE/A和12TB MG07ACA12TE/A, 这也是Toshiba第一次发布充氦HDD
+
+前者为业界首款14TB PMR和首款9碟装HDD(单碟1.56TB), 后者为8碟装和其它家12TB保持一致
+
+
+2018-01-20更新: HGST空气盘换代, PMR HDD单碟有突破, Cache全部为256MB, 速度更快
+
+1. 业界首款5碟8TB Ultrastar 7K8 HUS728T8TALE6L4, 单碟1.6TB
+
+相比较当前最快的8TB是Seagate的6碟/1.33TB, 自家的He8和Deskstar NAS 8TB更是只有7碟/1.14TB
+
+2. 业界首款4碟6TB Ultrastar 7K6 HUS726T6TALN6L4, 单碟1.5TB, 相比较当前最快的6TB为5碟/1.2TB
+
+
+2018-04-18更新1: 新增业界首款PMR磁碟+TDMR磁头Seagate Exos X14 14TB初步信息, 型号ST14000NM0428
+
+目前官网还没有任何资料可查, 据AnandTech确认是8碟装, 单碟1.75TB, 和HC530 14TB一样为目前PMR里最高
+
+2018-04-18更新2: HGST大面积更新和修正, 并添加刚发布的Ultrastar DC HC530 14TB, 512e型号WUH721414ALE6L0/4
+
+1. 业界首款512MB Cache Buffer PMR, 和Exos X14 14TB一样使用了PMR磁碟+TDMR磁头技术
+
+2. 只有Datasheet缺少Spec, 所以功耗信息无法直接对比, 其它HGST型号的待机和典型我都是取了Spec里的最大平均值
+
+
+2018-10-20更新: 数据全面更新和修正, 包括众多14TB, 推荐下载替换
+
+
+2018-10-24更新: HC620即原来的Hs14竟然新增了15TB SMR, 512e型号HSH721415ALE6M0, 罕见地出现PN号后面数字更大的情况
